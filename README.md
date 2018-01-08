@@ -1,1 +1,1 @@
-# esuv.ablaikhna.kz
+# testing the wordpress web site for university reports
